@@ -23,7 +23,7 @@
     <string name="backup_transport_title">აირჩიეთ მარქაფის მომსახურება</string>
     <string name="berry_black_theme_title">სადა შავი</string>
     <string name="berry_black_theme_summary">სადა შავი ფონი მუქი იერსახისთვის</string>
-    <string name="lineagelicense_title">LineageOS – სამართლებრივი</string>
+    <string name="lineagelicense_title">cincaiAndroid – სამართლებრივი</string>
     <string name="show_dev_countdown_cm">{count, plural,
       one {}=1      {# ნაბიჯი შემმუშავებლის პარამეტრების ამოქმედებამდე.}
       other   {# ნაბიჯი შემმუშავებლის პარამეტრების ამოქმედებამდე.}
@@ -38,8 +38,6 @@
     <string name="heads_up_notifications_enabled_summary">მნიშვნელოვანი შეტყობინებების ჩვენება პატარა ამომხტომ ფანჯარაში</string>
     <string name="high_touch_sensitivity_title">შეხების მაღალი მგრძნობელობა</string>
     <string name="high_touch_sensitivity_summary">ეკრანის მგრძნობელობის გაზრდა, ხელთათმანით გამოსაყენებლად</string>
-    <string name="tethering_allow_vpn_upstreams_title">გამოიყენოს VPN შეერთებულ მოწყობილობებზეც</string>
-    <string name="tethering_allow_vpn_upstreams_summary">როცა ამ მოწყობილობაზე გამოიყენება VPN, მასზე დაერთებული ყველა მოწყობილობისთვის ასევე გამოყენებული იქნება იგივე VPN</string>
     <string name="lock_settings_picker_pattern_size_message">მოსახაზის ზომის არჩევა</string>
     <string name="lockpattern_settings_enable_error_path_title">მონახაზის შეცდომის ჩვენება</string>
     <string name="lockpattern_settings_enable_dots_title">წერტილების ჩვენება მონახაზისთვის</string>
