@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineagelicense_title">LineageOS lizentzia</string>
+    <string name="lineagelicense_title">cincaiAndroid lizentzia</string>
     <string name="show_dev_on_cm">Garatzaileen aukerak gaitu dituzu!</string>
     <string name="show_dev_already_cm">Ez da behar, aurretik gaitu dituzu garatzaileek aukerak.</string>
     <string name="status_bar_double_tap_to_sleep_title">Sakatu lokartzeko</string>
@@ -35,6 +35,8 @@
     <string name="unlock_scramble_pin_layout_summary">PIN zenbakiaren antolaketa nahastu gailua desblokeatzean</string>
     <string name="proximity_wake_title">Eragotzi ustekabeko esnatzea</string>
     <string name="proximity_wake_summary">Kontsultatu gertutasun sentsorea pantaila piztu baino lehen</string>
+    <string name="touchscreen_gesture_settings_title">Ukitze-pantailaren keinuak</string>
+    <string name="touchscreen_gesture_settings_summary">Egin ukimen-pantailako keinuak ekintza azkarretarako</string>
     <string name="touchscreen_hovering_title">Pantailaren gainetik pasatu</string>
     <string name="touchscreen_hovering_summary">Sagua bailitzan pantailaren gainetik pasatzea ahalbidetzen dizu, nabigatzaileetan, urruneko mahaigainetan, eta abar</string>
     <string name="wake_when_plugged_or_unplugged_title">Esnatu kargadorearekin</string>

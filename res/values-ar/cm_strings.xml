@@ -23,7 +23,7 @@
     <string name="backup_transport_title">حدد موفر النسخ الاحتياطي</string>
     <string name="berry_black_theme_title">أسود خالص</string>
     <string name="berry_black_theme_summary">خلفية سوداء خالصة للوضع المظلم</string>
-    <string name="lineagelicense_title">قانون LineageOS</string>
+    <string name="lineagelicense_title">قانون cincaiAndroid</string>
     <string name="show_dev_on_cm">مكّنتَ خيارات المطور!</string>
     <string name="show_dev_already_cm">لا داعي، فخيارات المطور مفعّلة.</string>
     <string name="status_bar_double_tap_to_sleep_title">اضغط للنوم</string>
@@ -51,6 +51,8 @@
     <string name="unlock_scramble_pin_layout_summary">تخطيط رقم PIN المرمز عند إلغاء تأمين الجهاز</string>
     <string name="proximity_wake_title">منع الاستيقاظ العشوائي</string>
     <string name="proximity_wake_summary">التحقق من مستشعر القرب قبل إيقاظ الشاشة</string>
+    <string name="touchscreen_gesture_settings_title">الإيماءات اللمسية</string>
+    <string name="touchscreen_gesture_settings_summary">عمل إيماءات لمسية متعددة لأعمال سريعة</string>
     <string name="touchscreen_hovering_title">المرور فوق الشاشة اللمسية</string>
     <string name="touchscreen_hovering_summary">يسمح لك بالمرور فوق الشاشة مثل الماوس في مستعرضات الويب، أو سطح المكتب عن بُعد، إلخ</string>
     <string name="wake_when_plugged_or_unplugged_title">الإيقاظ عند التوصيل</string>

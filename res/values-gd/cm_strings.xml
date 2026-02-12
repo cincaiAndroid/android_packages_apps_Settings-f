@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Tagh solaraiche nan lethbhreacan-glèidhidh</string>
     <string name="berry_black_theme_title">Dubh</string>
     <string name="berry_black_theme_summary">Cleachd cùlaibh dubh leis an ùrlar dhorcha</string>
-    <string name="lineagelicense_title">Sgrìobhainnean laghail LineageOS</string>
+    <string name="lineagelicense_title">Sgrìobhainnean laghail cincaiAndroid</string>
     <string name="show_dev_on_cm">Chuir thu roghainnean an luchd-leasachaidh an comas!</string>
     <string name="show_dev_already_cm">Cha leig thu leas, chuir thu roghainnean an luchd-leasachaidh an comas mu thràth.</string>
     <string name="status_bar_double_tap_to_sleep_title">Thoir gnogag airson cadal</string>
@@ -53,6 +53,8 @@
     <string name="unlock_scramble_pin_layout_summary">Cuir co-dhealbhachd a’ PIN tro chèile nuair a bheirear a’ ghlas far an uidheim</string>
     <string name="proximity_wake_title">Caisg dùsgadh air mhearachd</string>
     <string name="proximity_wake_summary">Dearbh le mothaichear na fagasachd mus dèid an sgrìn a dhùsgadh</string>
+    <string name="touchscreen_gesture_settings_title">Gluasadan na sgrìn-shuathaidh</string>
+    <string name="touchscreen_gesture_settings_summary">Cleachd gluasadan sgrìn-shuathaidh airson gnìomhan luatha</string>
     <string name="touchscreen_hovering_title">Fantainn os cionn na sgrìn</string>
     <string name="touchscreen_hovering_summary">Bheir seo comas dhut fantainn os cionn na sgrìn, mar luchag ann am brabhsairean-lìn, desktops cèin is msaa</string>
     <string name="wake_when_plugged_or_unplugged_title">Dùisg nuair a cheanglar ri bun-dealain</string>

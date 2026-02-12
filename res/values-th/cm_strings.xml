@@ -21,7 +21,7 @@
     <string name="adb_enable_summary_root">อนุญาตการดีบัก Android ในฐานะรูท</string>
     <string name="berry_black_theme_title">ดำสนิท</string>
     <string name="berry_black_theme_summary">พื้นหลังสีดำสนิทสำหรับธีมมืด</string>
-    <string name="lineagelicense_title">เกี่ยวกับกฎหมาย LineageOS</string>
+    <string name="lineagelicense_title">เกี่ยวกับกฎหมาย cincaiAndroid</string>
     <string name="show_dev_on_cm">คุณเปิดใช้งานการตั้งค่าการพัฒนาแล้ว!</string>
     <string name="show_dev_already_cm">ไม่จำเป็น คุณได้เปิดใช้งานการตั้งค่าการพัฒนาแล้ว</string>
     <string name="status_bar_double_tap_to_sleep_title">แตะเพื่อหลับ</string>
@@ -43,6 +43,8 @@
     <string name="unlock_scramble_pin_layout_summary">สุ่มสลับรหัสเมื่อปลดล็อคอุปกรณ์</string>
     <string name="proximity_wake_title">ป้องกันการเปิดหน้าจอโดยไม่เจตนา</string>
     <string name="proximity_wake_summary">ตรวจสอบด้วยเซ็นเซอร์ก่อนปลุกหน้าจอ</string>
+    <string name="touchscreen_gesture_settings_title">ท่าทางสัมผัสบนหน้าจอ</string>
+    <string name="touchscreen_gesture_settings_summary">ใช้ท่าทางสัมผัสรูปแบบต่าง ๆ เพื่อการทำงานที่รวดเร็วขึ้น</string>
     <string name="touchscreen_hovering_title">วางนิ้วเหนือจอ</string>
     <string name="touchscreen_hovering_summary">อนุญาตให้คุณสามารถวางนิ้วเหนือจอเหมือนการวางเม้าส์เหนือปุ่มในคอมพิวเตอร์</string>
     <string name="wake_when_plugged_or_unplugged_title">ตื่นเมื่อเสียบปลั๊ก</string>

@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Välj säkerhetskopieringsleverantör</string>
     <string name="berry_black_theme_title">Helsvart</string>
     <string name="berry_black_theme_summary">Helsvart bakgrund för mörkt tema</string>
-    <string name="lineagelicense_title">LineageOS Juridik</string>
+    <string name="lineagelicense_title">cincaiAndroid Juridik</string>
     <string name="show_dev_on_cm">Du har aktiverat utvecklingsinställningar!</string>
     <string name="show_dev_already_cm">Det behövs inte, du har redan aktiverat utvecklingsinställningar.</string>
     <string name="status_bar_double_tap_to_sleep_title">Dubbeltryck för att släcka skärmen</string>
@@ -43,6 +43,7 @@
     <string name="unlock_scramble_pin_layout_title">Kasta om layout</string>
     <string name="unlock_scramble_pin_layout_summary">Kasta om PIN-layout vid upplåsning av enheten</string>
     <string name="proximity_wake_title">Förhindra oavsiktlig väckning</string>
+    <string name="touchscreen_gesture_settings_title">Skärmgester</string>
     <string name="touchscreen_hovering_title">Tryckskärm-hovring</string>
     <string name="touchscreen_hovering_summary">Låter dig hovra över skärmen som en mus i webbläsare, fjärrskrivbord, etc</string>
     <string name="wake_when_plugged_or_unplugged_title">Vakna vid koppling</string>
